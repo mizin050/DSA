@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mizin050/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mizin050/DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mizin050/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
